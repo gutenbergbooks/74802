@@ -1,5 +1,5 @@
-﻿
 *** START OF THE PROJECT GUTENBERG EBOOK 74802 ***
+
 
 
 
@@ -70,7 +70,7 @@ Master of Realism with the spirit of the East and calls to mind scenes
 in another book of his,_ THE RELIC, _which sounds like an echo of
 Flaubert. The frontispiece is a copy of a striking water-colour sketch
 by the King of Portugal offered to the Count of Arnoso on the occasion
-of the fifteenth representation of the tatter’s charming dramatised
+of the fifteenth representation of the latter’s charming dramatised
 version of “The Sweet Miracle.” His Majesty has graciously approved and
 the Count has very kindly permitted its reproduction here._
 
@@ -381,8 +381,6 @@ Child: “I am here.”
 
 
 BALLANTYNE PRESS
-
-
 
 
 *** END OF THE PROJECT GUTENBERG EBOOK 74802 ***
